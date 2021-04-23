@@ -1,0 +1,29 @@
+--------------------------------------------------
+Cara menggunakan pengenal wajah (Face Recognition)
+--------------------------------------------------
+1. Masukkan gambar di folder 'Database gambar' cukup diberi nama saja. Contoh 'Saya.jpg'
+2. Kalo sudah, cukup klik ikon 'pengenalan wajah'
+3. Jika tidak keluar konsolnya, coba download python 3.8 di python.org
+4. Jika konsol keluar tapi tiba-tiba tertutup, mungkin antivirus menganggap software ini virus (Saya menjamin software ini tidak mengandung virus). Cukup whitelist program ini
+5. Jika konsol langsung tertutup, cek apa gambar di folder 'Database gambar' sudah ada
+6. Jika konsol mengatakan 'Enkode Selesai!' tapi konsol langsung menutup, apakah kamera atau webcam sudah terkoneksi dengan komputer
+
+WAJIB DI LAKUKAN:
+1. Download Visual Studio di https://visualstudio.microsoft.com/downloads/
+2. Jika sudah didownload jalankan programnya
+3. Setelah menunggu download dan instalasi
+4. Pilih "Desktop development with c++"
+5. Tunggu download dan instalasi
+6. Dan anda siap menjalankan pengenal wajah (caranya diatas)
+
+CATATAN PENTING:
+Jika anda tidak terlalu tahu dengan komputer jangan mengubah apapun isi didalam folder 'Komponen'
+
+KREDIT:
+Setiawan Jodi - Menciptakan software
+Komunitas di Stack Overflow
+dlib
+OpenCV
+face_recognition - dibuat oleh ageitgey (https://github.com/ageitgey/face_recognition)
+CMake
+NumPy
