@@ -1,5 +1,5 @@
 # Pengenalan-Wajah
-An easy to use face recognition. Made from [face_recognition](https://github.com/ageitgey/face_recognition)
+An easy to use face recognition. Made from  python and [face_recognition](https://github.com/ageitgey/face_recognition)
 
 ## Warning this instruction is a translation from Indonesian to English
 
