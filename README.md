@@ -3,13 +3,16 @@ An easy to use face recognition. Made from [face_recognition](https://github.com
 
 ## Warning this instruction is a translation from Indonesian to English
 
+## Download
+You can download the complete version at https://github.com/53714W46J091/Pengenalan-Wajah/releases
+
 ## Installation
 1. Download Visual Studio at https://visualstudio.microsoft.com/downloads/
 2. If it has been downloaded, run the program
 3. After waiting for download and installation
 4. Select "Desktop development with C++"
 5. Wait for the download and installation
-6. And you are ready to run facial recognition (the method above)
+6. And you are ready to run facial recognition
 
 ## Troubleshooting
 1. Enter the image in the 'Database Gambar' folder, just name it. Example of 'Saya.jpg'
