@@ -5,8 +5,8 @@ import face_recognition
 import os
 from datetime import datetime
 
-#Impor Gambar
-path = 'Database'
+#Import Image
+path = 'YOUR_IMAGE_FOLDER'
 images = []
 classNames = []
 myList = os.listdir(path)
@@ -17,7 +17,7 @@ for cl in myList:
     classNames.append(os.path.splitext(cl)[0])
 print(classNames)
 
-#Enkode
+#Encode
 def findEncodings(images):
     encodeList = []
     for img in images:
@@ -25,11 +25,11 @@ def findEncodings(images):
         encode = face_recognition.face_encodings(img)[0]
         encodeList.append(encode)
     return encodeList
-print('Enkode Selesai!')
+print('Encode Done!')
 
-#Log Histori
+#History Log
 def markAttendance(name):
-    with open('Histori.csv', 'r+') as f:
+    with open('YOUR_FILE_NAME.csv', 'r+') as f:
         myDataList = f.readlines()
         nameList = []
         for line in myDataList:
@@ -42,7 +42,7 @@ def markAttendance(name):
 
 encodeListKnown = findEncodings(images)
 
-#Proses Input Kamera
+#Camera Input Processing
 cap = cv2.VideoCapture(0)
 while True:
     success, img = cap.read()
