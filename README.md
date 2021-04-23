@@ -28,3 +28,6 @@ Community on Stack Overflow |
 [face_recognition](https://github.com/ageitgey/face_recognition) | 
 [CMake](https://github.com/Kitware/CMake) | 
 [NumPy](https://github.com/numpy/numpy)
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
