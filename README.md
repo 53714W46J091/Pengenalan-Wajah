@@ -21,6 +21,9 @@ You can download the complete version at https://github.com/53714W46J091/Pengena
 4. If the console closes immediately, check whether the images in the 'Database Gambar' folder already exist
 5. When the console says 'Encoding Complete!' but the console immediately closes, whether the camera or webcam is connected to the computer
 
+## Build from source code
+You need to install the dependencies yourself. the dependencies list is on [Installation](https://github.com/53714W46J091/Pengenalan-Wajah#installation) & [Credit](https://github.com/53714W46J091/Pengenalan-Wajah#credit)
+
 ## Warning!
 If you are not very familiar with computers do not change any of the contents in the 'Komponen' folder.
 
