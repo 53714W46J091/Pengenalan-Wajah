@@ -22,11 +22,9 @@ An easy to use face recognition. Made from [face_recognition](https://github.com
 If you are not very familiar with computers do not change any of the contents in the 'Komponen' folder.
 
 ## Credit
-```
-Community on Stack Overflow
-[dlib](https://github.com/davisking/dlib)
-[OpenCV](https://github.com/opencv/opencv)
-[face_recognition](https://github.com/ageitgey/face_recognition)
-[CMake](https://github.com/Kitware/CMake)
+Community on Stack Overflow | 
+[dlib](https://github.com/davisking/dlib) | 
+[OpenCV](https://github.com/opencv/opencv) | 
+[face_recognition](https://github.com/ageitgey/face_recognition) | 
+[CMake](https://github.com/Kitware/CMake) | 
 [NumPy](https://github.com/numpy/numpy)
-```
