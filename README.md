@@ -20,6 +20,7 @@ You can download the complete version at https://github.com/53714W46J091/Pengena
 3. If the console suddenly closes, try downloading python 3.8 at [python.org](https://python.org)
 4. If the console closes immediately, check whether the images in the 'Database Gambar' folder already exist
 5. When the console says 'Encoding Complete!' but the console immediately closes, whether the camera or webcam is connected to the computer
+6. Check your device have a CUDA capable device
 
 ## Build from source code
 You need to install the dependencies yourself. the dependencies list is on [Installation](https://github.com/53714W46J091/Pengenalan-Wajah#installation) & [Credit](https://github.com/53714W46J091/Pengenalan-Wajah#credit)
