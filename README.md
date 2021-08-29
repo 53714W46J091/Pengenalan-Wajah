@@ -34,7 +34,7 @@ Community on Stack Overflow |
 [OpenCV](https://github.com/opencv/opencv) | 
 [face_recognition](https://github.com/ageitgey/face_recognition) | 
 [CMake](https://github.com/Kitware/CMake) | 
-[NumPy](https://github.com/numpy/numpy) | Also random indian guy on youtube (thanks for the toturial)
+[NumPy](https://github.com/numpy/numpy) | Also random indian guy on youtube (thanks for the tutorial)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
